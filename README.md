@@ -1,4 +1,4 @@
-# make-your-burger
+# burger-project
 
 ## Project setup
 ```
@@ -8,6 +8,7 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+npm run backend
 ```
 
 ### Compiles and minifies for production
