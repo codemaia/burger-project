@@ -81,40 +81,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": "Livia",
-      "pao": "Parmesão e Orégano",
-      "carne": "Picanha",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Tita",
-      "pao": "Parmesão e Orégano",
-      "carne": "Veggie burger",
-      "opcionais": [
-        "Tomate"
-      ],
-      "status": "Em produção",
-      "id": 5
-    },
-    {
-      "nome": "Titoca",
-      "pao": "3 Queijos",
-      "carne": "Picanha",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Finalizado",
-      "id": 7
-    }
-  ]
+  "burgers": []
 }
