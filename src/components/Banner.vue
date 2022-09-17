@@ -3,6 +3,7 @@
     <div id="main-banner">
         <h1>Make Your Burger</h1>
     </div>
+    <!-- BANNER END -->
 </template>
 
 <script>
