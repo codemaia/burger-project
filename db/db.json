@@ -157,6 +157,29 @@
       ],
       "status": "Solicitado",
       "id": 6
+    },
+    {
+      "nome": "Titoca",
+      "pao": "3 Queijos",
+      "carne": "Picanha",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    },
+    {
+      "nome": "Felipe",
+      "pao": "3 Queijos",
+      "carne": "Veggie burger",
+      "opcionais": [
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 8
     }
   ]
 }
